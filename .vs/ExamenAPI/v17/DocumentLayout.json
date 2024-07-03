@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paulo\\Desktop\\Escuela\\9noCuatrimestre\\Desarrollo web\\Segundo parcial\\ExamenAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF4B121-1006-4B83-9774-2500EF1D884D}|ExamenAPI\\ExamenAPI.csproj|c:\\users\\paulo\\desktop\\escuela\\9nocuatrimestre\\desarrollo web\\segundo parcial\\examenapi\\examenapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF4B121-1006-4B83-9774-2500EF1D884D}|ExamenAPI\\ExamenAPI.csproj|solutionrelative:examenapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF4B121-1006-4B83-9774-2500EF1D884D}|ExamenAPI\\ExamenAPI.csproj|c:\\users\\paulo\\desktop\\escuela\\9nocuatrimestre\\desarrollo web\\segundo parcial\\examenapi\\examenapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAF4B121-1006-4B83-9774-2500EF1D884D}|ExamenAPI\\ExamenAPI.csproj|solutionrelative:examenapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF4B121-1006-4B83-9774-2500EF1D884D}|ExamenAPI\\ExamenAPI.csproj|c:\\users\\paulo\\desktop\\escuela\\9nocuatrimestre\\desarrollo web\\segundo parcial\\examenapi\\examenapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF4B121-1006-4B83-9774-2500EF1D884D}|ExamenAPI\\ExamenAPI.csproj|solutionrelative:examenapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF4B121-1006-4B83-9774-2500EF1D884D}|ExamenAPI\\ExamenAPI.csproj|c:\\users\\paulo\\desktop\\escuela\\9nocuatrimestre\\desarrollo web\\segundo parcial\\examenapi\\examenapi\\models\\productocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF4B121-1006-4B83-9774-2500EF1D884D}|ExamenAPI\\ExamenAPI.csproj|solutionrelative:examenapi\\models\\productocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF4B121-1006-4B83-9774-2500EF1D884D}|ExamenAPI\\ExamenAPI.csproj|c:\\users\\paulo\\desktop\\escuela\\9nocuatrimestre\\desarrollo web\\segundo parcial\\examenapi\\examenapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF4B121-1006-4B83-9774-2500EF1D884D}|ExamenAPI\\ExamenAPI.csproj|solutionrelative:examenapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Desktop\\Escuela\\9noCuatrimestre\\Desarrollo web\\Segundo parcial\\ExamenAPI\\ExamenAPI\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "ExamenAPI\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Desktop\\Escuela\\9noCuatrimestre\\Desarrollo web\\Segundo parcial\\ExamenAPI\\ExamenAPI\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "ExamenAPI\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T03:52:12.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Desktop\\Escuela\\9noCuatrimestre\\Desarrollo web\\Segundo parcial\\ExamenAPI\\ExamenAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamenAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Paulo\\Desktop\\Escuela\\9noCuatrimestre\\Desarrollo web\\Segundo parcial\\ExamenAPI\\ExamenAPI\\appsettings.json",
+              "RelativeToolTip": "ExamenAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T03:47:18.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Desktop\\Escuela\\9noCuatrimestre\\Desarrollo web\\Segundo parcial\\ExamenAPI\\ExamenAPI\\Models\\ProductoContext.cs",
+              "RelativeDocumentMoniker": "ExamenAPI\\Models\\ProductoContext.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Desktop\\Escuela\\9noCuatrimestre\\Desarrollo web\\Segundo parcial\\ExamenAPI\\ExamenAPI\\Models\\ProductoContext.cs",
+              "RelativeToolTip": "ExamenAPI\\Models\\ProductoContext.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T03:39:30.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Desktop\\Escuela\\9noCuatrimestre\\Desarrollo web\\Segundo parcial\\ExamenAPI\\ExamenAPI\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ExamenAPI\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Desktop\\Escuela\\9noCuatrimestre\\Desarrollo web\\Segundo parcial\\ExamenAPI\\ExamenAPI\\Models\\Producto.cs",
+              "RelativeToolTip": "ExamenAPI\\Models\\Producto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T03:37:37.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Desktop\\Escuela\\9noCuatrimestre\\Desarrollo web\\Segundo parcial\\ExamenAPI\\ExamenAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Desktop\\Escuela\\9noCuatrimestre\\Desarrollo web\\Segundo parcial\\ExamenAPI\\ExamenAPI\\Program.cs",
+              "RelativeToolTip": "ExamenAPI\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T03:34:43.833Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
